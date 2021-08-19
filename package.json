@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-cron-job",
+  "version": "1.0.0",
+  "description": "Nodejs application using express.js and sequelize to run cron jobs.",
+  "main": "server.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azeemjoseph/nodejs-cron-job.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "cron-job",
+    "sequelize"
+  ],
+  "author": "Azeem Joseph",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azeemjoseph/nodejs-cron-job/issues"
+  },
+  "homepage": "https://github.com/azeemjoseph/nodejs-cron-job#readme"
+}
